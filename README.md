@@ -7,13 +7,13 @@ This is the source code for NK/T-cell lymphoma (NKTCL) project.
 
 |-- Base
 
-   |-- ChIPseq.sh
+   |-- WXS.sh
 
    |-- RNAseq.sh
 
-   |-- WXS.sh
-
    |-- scRNAseq.sh
+
+   |-- ChIPseq.sh
 
 
 ### Report bugs and solutions
