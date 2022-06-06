@@ -5,11 +5,11 @@ This is the source code for NK/T-cell lymphoma (NKTCL) project.
 
 ### List of all code files
 
-|-- Base
-|---- ChIPseq.sh
-|---- RNAseq.sh
-|---- WXS.sh
-|---- scRNAseq.sh
+├── Base
+│   ├── ChIPseq.sh
+│   ├── RNAseq.sh
+│   ├── WXS.sh
+│   ├── scRNAseq.sh
 
 
 ### Report bugs and solutions
